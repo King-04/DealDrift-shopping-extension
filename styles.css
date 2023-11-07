@@ -1,0 +1,49 @@
+body {
+  background-color: #db9eda; /* Light grey background */
+  color: #343a40; /* Dark text color */
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#results a {
+  color: #007bff; /* Blue link color */
+}
+
+#results a:hover {
+  text-decoration: underline;
+}
+
+.card-header {
+  background-color: #007bff; /* Blue header background */
+  color: white;
+  border-bottom: none;
+}
+
+.card-footer {
+  background-color: #f8f9fa; /* Light grey footer background */
+  border-top: none;
+}
+
+.btn-primary {
+  background-color: #007bff; /* Blue button background */
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+  border-color: #0056b3;
+}
+
+.btn-pink {
+  background-color: #e83e8c; /* Pink button background */
+  border-color: #e83e8c;
+}
+
+.btn-pink:hover {
+  background-color: #d5336c; /* Darker pink on hover */
+  border-color: #d5336c;
+}
